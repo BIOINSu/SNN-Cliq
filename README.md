@@ -1,4 +1,4 @@
-This algorithm is used to  do the identification of cell types from single-cell transcriptomes. The original input is a gene expression matrix. Algorithm output the clusters of cells. This source code is downloaded from  the writers' website.
+This algorithm is used to  do the identification of cell types from single-cell transcriptomes. The original input is a gene expression matrix. Algorithm output the clusters of cells. This source code is downloaded from  the authors' website.
 
 Original article is :
 
